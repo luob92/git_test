@@ -1,3 +1,3 @@
 # git_test
-blank
+My first github repo
 Hello Odin!
